@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/loader.css"],"names":[],"mappings":"AAKE,cACE,SACF","file":"main.bcf69a95.chunk.css","sourcesContent":[".loader {\n   \n\n  }\n  \n  .loader--hide {\n    opacity: 0;\n  }\n"]}
